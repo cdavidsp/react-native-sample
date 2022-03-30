@@ -1,4 +1,4 @@
-# react-native-sample
+# React Native Sample using Expo
 
 Steps to build:
 
@@ -7,13 +7,13 @@ Steps to build:
 
 This project use this architecture:
 
-src
- |--api
- |--context
- |--components
- |--hooks
- |--screens
- |--App.js
+* src
+    + api
+    + context
+    + components
+    + hooks
+    + screens
+    + App.js
  
 and the project use:
 1. Axios for API requests
